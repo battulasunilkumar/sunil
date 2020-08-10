@@ -11,6 +11,8 @@ public class Demo {
 		Reporter.log("successfully running  7",true);
 		Reporter.log("successfully running 8",true);
 		Reporter.log("successfully running 9",true);
+		Reporter.log("successfully running 10",true);
+		Reporter.log("successfully running 11",true);
 	}
 
 }
