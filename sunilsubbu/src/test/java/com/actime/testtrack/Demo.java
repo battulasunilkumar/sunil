@@ -8,11 +8,11 @@ public class Demo {
 	@Test
 	public void runTest2()
 	{
-		Reporter.log("successfully running  7",true);
-		Reporter.log("successfully running 8",true);
-		Reporter.log("successfully running 9",true);
-		Reporter.log("successfully running 10",true);
-		Reporter.log("successfully running 11",true);
+		Reporter.log("successfully running  1",true);
+		Reporter.log("successfully running 2",true);
+		Reporter.log("successfully running 3",true);
+		Reporter.log("successfully running 4",true);
+		Reporter.log("successfully running 5",true);
 	}
 
 }
